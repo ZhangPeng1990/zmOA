@@ -9,7 +9,7 @@ package com.practiceexercise;
 public class Calculate {
 	public static void main(String[] args){
 		/**
-		 * 公鸡：x, 母鸡：y, 雏鸡：z
+		 * 公鸡：x, 母鸡：y, 雏鸡：z 
 		 * 
 		 *   
 		 */
