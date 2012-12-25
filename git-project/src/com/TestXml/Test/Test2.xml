@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<NewData>
+  <xs:schema id="NewData" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="NewData">
+      <xs:complexType>
+          <xs:element name="Table">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="A0101" type="xs:string" />
+                <xs:element name="A0102" type="xs:string" />
+                <xs:element name="A0103" type="xs:string" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table>
+    <A0101>1</A0101>
+    <A0102>2</A0102>
+    <A0103>3</A0103>
+  </Table>
+</NewData>

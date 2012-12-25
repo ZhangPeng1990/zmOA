@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<ROWDATA xmlns="http://www.epcregister.com">  
+    <nowOne>
+      <SAPReport-Header>张鹏测试命名空间</SAPReport-Header>
+    </nowOne>
+    <ROW>  
+        <EMPNO>7499</EMPNO>  
+        <ENAME firstname="zhang" lastname="shanfeng">ALLEN</ENAME>  
+        <JOB type="basic">SALESMAN</JOB>  
+        <MGR>7698</MGR>  
+        <HIREDATE>1981-2-20</HIREDATE>  
+        <SAL>3200.0</SAL>  
+        <COMM>300.00</COMM>  
+        <DEPTNO>30</DEPTNO>  
+    </ROW>  
+    <ROW>  
+        <EMPNO>7566</EMPNO>  
+        <ENAME>JONES</ENAME>  
+        <JOB>MANAGER</JOB>  
+        <MGR>7839</MGR>  
+        <HIREDATE>1981-4-2</HIREDATE>  
+        <SAL>5950.0</SAL>  
+        <COMM />  
+        <DEPTNO>20</DEPTNO>  
+    </ROW>  
+      
+</ROWDATA>  
